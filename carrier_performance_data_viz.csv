@@ -1,0 +1,29 @@
+shipment_id,carrier_name,origin_city,destination_city,ship_date,delivery_date,planned_delivery_date,delivery_status
+101,Speedy Ship,Chicago,New York,2024-01-05,2024-01-09,2024-01-10,On-Time
+102,Rapid Transit,Los Angeles,Chicago,2024-01-08,2024-01-12,2024-01-12,On-Time
+103,QuickHaul Logistics,New York,Miami,2024-01-10,2024-01-15,2024-01-14,Late
+104,Global Movers,Dallas,Los Angeles,2024-01-11,2024-01-16,2024-01-15,Late
+105,Speedy Ship,Chicago,Miami,2024-01-15,2024-01-20,2024-01-20,On-Time
+106,Rapid Transit,Seattle,San Francisco,2024-02-02,2024-02-05,2024-02-04,Late
+107,QuickHaul Logistics,Miami,Chicago,2024-02-05,2024-02-10,2024-02-10,On-Time
+108,Global Movers,Houston,New York,2024-02-08,2024-02-13,2024-02-12,Late
+109,Speedy Ship,New York,Boston,2024-02-11,2024-02-13,2024-02-13,On-Time
+110,Rapid Transit,Los Angeles,Seattle,2024-02-14,2024-02-18,2024-02-17,Late
+111,QuickHaul Logistics,Chicago,Dallas,2024-03-01,2024-03-05,2024-03-05,On-Time
+112,Global Movers,San Francisco,Denver,2024-03-03,2024-03-07,2024-03-06,Late
+113,Speedy Ship,Boston,Washington DC,2024-03-06,2024-03-08,2024-03-08,On-Time
+114,Rapid Transit,Chicago,Houston,2024-03-10,2024-03-15,2024-03-14,Late
+115,QuickHaul Logistics,Miami,Atlanta,2024-03-12,2024-03-15,2024-03-15,On-Time
+116,Global Movers,Denver,Phoenix,2024-04-02,2024-04-06,2024-04-05,Late
+117,Speedy Ship,Washington DC,New York,2024-04-05,2024-04-07,2024-04-07,On-Time
+118,Rapid Transit,Seattle,Los Angeles,2024-04-08,2024-04-11,2024-04-11,On-Time
+119,QuickHaul Logistics,Dallas,Houston,2024-04-11,2024-04-14,2024-04-13,Late
+120,Global Movers,Phoenix,Los Angeles,2024-04-15,2024-04-19,2024-04-18,Late
+121,Speedy Ship,Chicago,New York,2024-04-18,2024-04-23,2024-04-23,On-Time
+122,Rapid Transit,Los Angeles,San Francisco,2024-05-01,2024-05-04,2024-05-03,Late
+123,QuickHaul Logistics,New York,Boston,2024-05-04,2024-05-06,2024-05-06,On-Time
+124,Global Movers,Houston,Dallas,2024-05-08,2024-05-10,2024-05-10,On-Time
+125,Speedy Ship,Miami,Atlanta,2024-05-12,2024-05-16,2024-05-15,Late
+126,Rapid Transit,San Francisco,Seattle,2024-05-15,2024-05-19,2024-05-18,Late
+127,QuickHaul Logistics,Boston,Washington DC,2024-06-01,2024-06-03,2024-06-03,On-Time
+128,Global Movers,Dallas,Chicago,2024-06-05,2024-06-10,2024-06-09,Late
