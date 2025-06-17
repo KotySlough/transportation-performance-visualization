@@ -1,10 +1,3 @@
-Of course. Here is the complete README.md content with the "Project Journey & Debugging Summary" section properly included.
-
-You can now go to your GitHub repository, edit the README.md file, and paste the entire block of text below to have a complete and professional project description.
-
-Complete README.md for Your GitHub Project
-Markdown
-
 # Transportation Carrier Performance Visualization
 
 ## Overview
