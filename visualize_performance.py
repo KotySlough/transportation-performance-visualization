@@ -103,14 +103,3 @@ def analyze_and_visualize_carrier_performance(filepath):
     plt.close()
 
     print("\nVisualizations have been generated and saved as PNG files in your project folder.")
-
-
-# --- Main Execution Block ---
-# This is the standard way to make a Python script runnable.
-# It ensures the code inside only runs when you execute the file directly.
-if __name__ == "__main__":
-    # Define the path to the CSV file
-    csv_file = 'carrier_performance_data_viz.csv'
-
-    # Run the analysis function
-    analyze_and_visualize_carrier_performance(csv_file)
